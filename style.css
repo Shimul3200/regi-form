@@ -1,0 +1,55 @@
+.header{
+    width: 60%;
+    font-size: 24px;
+    text-align: center;
+    margin:0 auto;
+    padding: 10px ;
+    background-color: lightcoral;
+    color: #fcf293;
+}
+form {
+    text-align: left;
+    border: 2px solid antiquewhite;
+    width: 60%;
+    margin:0 auto;
+    padding: 30px 30px;
+    background-color: ghostwhite;
+}
+.page {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+}
+input[type="text"], input[type="password"] {
+    width: 100%;
+    margin: 8px 0;
+    padding: 8px 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.footer{
+    width: 60%;
+    height: 48px;
+    margin:0 auto;
+    background-color: lightcoral;
+}
+button {
+    background-color: lightcoral;
+    width: 20%;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    margin-top: 16px;
+    border: 1px solid aliceblue;
+    color:#fcf293 ;
+}
+
+
+
+button:hover{
+    opacity:0.6;
+    color:#000;
+
+}
